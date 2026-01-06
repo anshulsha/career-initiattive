@@ -1,13 +1,18 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Your Company//Event Invite//EN
+PRODID:-//ASU ISSC//On Campus Event//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
 BEGIN:VEVENT
-UID:123456@example.com
-DTSTAMP:20260106T160000Z
-DTSTART:20260110T170000Z
-DTEND:20260110T180000Z
-SUMMARY:Project Discussion
-DESCRIPTION:Discussion about next milestones
-LOCATION:Zoom
+UID:guide-on-campus-jobs-20260120@asu.edu
+DTSTAMP:20260106T170000Z
+DTSTART:20260120T193000Z
+DTEND:20260120T210000Z
+SUMMARY:Guide to On-campus Jobs
+DESCRIPTION:Learn how on-campus hiring works (eligibility, hours, pay), where to find roles, and how F-1 rules apply. Leave with a search checklist and application timeline.
+LOCATION:MCOE, ASU Campus
+STATUS:CONFIRMED
 END:VEVENT
+
 END:VCALENDAR
